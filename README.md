@@ -27,7 +27,7 @@ A personal finance tracker to manage budgets, track transactions, and save towar
       <td><img src="assets/images/p6.jpg" alt="p6"></td>
     </tr>
     <tr>
-      <td align="center" colspan="3"><img src="assets/images/p7.jpg" alt="p7"></td>
+      <td align="center" colspan="1"><img src="assets/images/p7.jpg" alt="p7"></td>
     </tr>
   </table>
 </div>
