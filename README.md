@@ -1,17 +1,52 @@
-# budgetly
+<br />
+<div align="center">
+  <a href="https://github.com/your-username/budgetly">
+    <img src="assets/images/logo.svg" alt="Logo" width="100" height="100">
+  </a>
 
-A new Flutter project.
+<h3 align="center">Budgetly</h3>
 
-## Getting Started
+  <p align="center">
+A personal finance tracker to manage budgets, track transactions, and save toward goals.
+    <br />
+  </p>
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+    <h1 align="center">Preview</h1>
 
-A few resources to get you started if this is your first Flutter project:
+  <table>
+    <tr>
+      <td><img src="assets/images/p1.jpg" alt="p1"></td>
+      <td><img src="assets/images/p2.jpg" alt="p2"></td>
+      <td><img src="assets/images/p3.jpg" alt="p3"></td>
+    </tr>
+    <tr>
+      <td><img src="assets/images/p4.jpg" alt="p4"></td>
+      <td><img src="assets/images/p5.jpg" alt="p5"></td>
+      <td><img src="assets/images/p6.jpg" alt="p6"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3"><img src="assets/images/p7.jpg" alt="p7"></td>
+    </tr>
+  </table>
+</div>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter][Flutter]][Flutter-url] [![Dart][Dart]][Dart-url] [![Firebase][Firebase]][Firebase-url]
+
+### LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-9810FA.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+
+### Disclaimer
+This project is for educational purposes as part of CSC264 coursework. It is not intended for production use.
+
+[Flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://flutter.dev/
+
+[Dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+[Dart-url]: https://dart.dev/
+
+[Firebase]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+[Firebase-url]: https://firebase.google.com/
