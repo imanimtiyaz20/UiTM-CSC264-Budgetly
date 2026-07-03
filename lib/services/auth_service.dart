@@ -175,7 +175,6 @@ class AuthService {
         ...cat,
         'isDefault': false,
         'userId': userId,
-        'monthlyBudget': null,
       });
     }
     await batch.commit();

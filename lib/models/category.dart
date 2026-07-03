@@ -6,7 +6,6 @@ class Category {
   final String type;
   final bool isDefault;
   final String? userId;
-  final double? monthlyBudget;
 
   Category({
     this.id,
@@ -16,7 +15,6 @@ class Category {
     required this.type,
     this.isDefault = false,
     this.userId,
-    this.monthlyBudget,
   });
 
   Map<String, dynamic> toMap() => {
@@ -26,7 +24,6 @@ class Category {
         'type': type,
         'isDefault': isDefault,
         'userId': userId,
-        'monthlyBudget': monthlyBudget,
       };
 
   factory Category.fromMap(Map<String, dynamic> map, String id) => Category(
@@ -37,6 +34,5 @@ class Category {
         type: map['type'] as String? ?? 'expense',
         isDefault: map['isDefault'] as bool? ?? false,
         userId: map['userId'] as String?,
-        monthlyBudget: (map['monthlyBudget'] as num?)?.toDouble(),
       );
 }
